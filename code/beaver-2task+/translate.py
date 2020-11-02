@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+import warnings
+warnings.filterwarnings("ignore")
+
 import logging
 
 import torch
